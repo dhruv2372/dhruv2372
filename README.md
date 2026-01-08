@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pandey</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate Computer Science Student.</h3>
 
 - 📫 How to reach me **dhruvpandey905@gmail.com**
 
